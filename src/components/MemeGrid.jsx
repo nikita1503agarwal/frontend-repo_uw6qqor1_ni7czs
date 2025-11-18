@@ -4,47 +4,47 @@ const memes = [
   {
     title: "When the beat drops",
     caption: "Eden: drops the Wi‑Fi instead",
-    img: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/en/7/70/Surprised_Pikachu.jpg",
   },
   {
     title: "Left foot, right foot",
     caption: "Eden installed the update: feet not compatible",
-    img: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/en/4/4e/Roll_Safe_meme.jpg",
   },
   {
     title: "Dance tutorial",
     caption: "Step 1: Panic. Step 2: Apologize to the floor",
-    img: "https://picsum.photos/id/237/1600/1200",
+    img: "https://upload.wikimedia.org/wikipedia/en/8/8f/SuccessKid.jpg",
   },
   {
     title: "Freestyle mode",
     caption: "Eden buffering at 1% since 2009",
-    img: "https://picsum.photos/id/1025/1600/1200",
+    img: "https://upload.wikimedia.org/wikipedia/en/4/4f/Dancing_baby.gif",
   },
   {
     title: "Find the rhythm",
     caption: "It’s hiding. We checked behind the couch",
-    img: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/5f/Original_Doge_meme.jpg",
   },
   {
     title: "Choreography",
     caption: "The only move is Ctrl+Z",
-    img: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Distracted_Boyfriend_meme.jpg",
   },
   {
     title: "Dance floor",
     caption: "Now featuring hazard signs",
-    img: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/en/6/69/This_is_fine.png",
   },
   {
     title: "DJ request",
     caption: "Please play something with training wheels",
-    img: "https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1600&auto=format&fit=crop",
+    img: "https://upload.wikimedia.org/wikipedia/en/8/8d/Disaster_Girl.jpg",
   },
   {
     title: "Confidence level",
     caption: "Eden walked in like a firmware update",
-    img: "https://picsum.photos/id/1062/1600/1200",
+    img: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Andras_Arato_aka_Hide_the_Pain_Harold.jpg",
   },
 ];
 
