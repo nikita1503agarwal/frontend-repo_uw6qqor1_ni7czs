@@ -7,6 +7,10 @@ export default function MemeCard({ title, caption, img, footer }) {
           alt={title}
           className="w-full h-full object-cover object-center scale-105 group-hover:scale-110 transition-transform duration-500"
           loading="lazy"
+          onError={(e) => {
+            e.currentTarget.onerror = null;
+            e.currentTarget.src = "https://cataas.com/cat?width=900&height=675";
+          }}
         />
       </div>
       <div className="p-4">
