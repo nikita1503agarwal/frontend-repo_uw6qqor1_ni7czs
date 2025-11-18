@@ -14,12 +14,12 @@ const memes = [
   {
     title: "Dance tutorial",
     caption: "Step 1: Panic. Step 2: Apologize to the floor",
-    img: "https://images.unsplash.com/photo-1520975682031-0f2f63fbe0af?q=80&w=1600&auto=format&fit=crop",
+    img: "https://picsum.photos/id/237/1600/1200",
   },
   {
     title: "Freestyle mode",
     caption: "Eden buffering at 1% since 2009",
-    img: "https://images.unsplash.com/photo-1512427691650-7446598f1124?q=80&w=1600&auto=format&fit=crop",
+    img: "https://picsum.photos/id/1025/1600/1200",
   },
   {
     title: "Find the rhythm",
@@ -44,7 +44,7 @@ const memes = [
   {
     title: "Confidence level",
     caption: "Eden walked in like a firmware update",
-    img: "https://images.unsplash.com/photo-1532635048-6e5d6c5f3667?q=80&w=1600&auto=format&fit=crop",
+    img: "https://picsum.photos/id/1062/1600/1200",
   },
 ];
 
